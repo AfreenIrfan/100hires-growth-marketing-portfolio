@@ -81,7 +81,8 @@ Built the following folder structure inside /research/:
 - Nataraj Sasid — B2B content strategy, broad but credible
 
 **YouTube**
-- Tommy Clark (beB2B) — SaaS LinkedIn growth, content-led demand gen
+- Tommy Clark — SaaS LinkedIn growth, content-led demand gen
+- beB2B — SaaS LinkedIn growth, content-led demand gen
 - HubSpot Marketing — High-authority B2B marketing frameworks
 
 **Podcasts**
@@ -108,8 +109,8 @@ Combined manual collection (LinkedIn posts, podcast listening) with API-based ex
 ### File Count
 - 1 sources.md
 - 4 LinkedIn files
-- 2 YouTube files
+- 3 YouTube files
 - 3 Podcast files
 - 1 README update
 
-**Total: 11 files**
+**Total: 12 files**
