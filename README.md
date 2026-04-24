@@ -58,10 +58,58 @@ I'm a Digital Marketing Specialist with 1.5+ years
 of experience in social media strategy, AI-powered 
 content creation, and brand communications.
 
-I work with AI tools daily — ChatGPT, Claude, Gemini,
-ElevenLabs, CapCut — and have produced client-facing 
-content and AI brand reels for real clients from 
-scratch at Yokomet Creative Agency.
+## Task 2 — Research Project: LinkedIn Organic Content Strategy for B2B SaaS
 
-This is the first step of my portfolio. I'm ready 
-for what comes next.
+### What I Did
+Collected and organized high-quality insights from 10 experts across LinkedIn, YouTube, and Podcasts
+to build the foundation of a content strategy playbook for B2B SaaS companies.
+
+Built the following folder structure inside /research/:
+- sources.md — topic rationale, expert list, collection plan
+- /linkedin-posts/ — posts + observations from 4 LinkedIn experts
+- /youtube-transcripts/ — transcripts + takeaways from 2 YouTube creators
+- /other/ — podcast notes from 3 podcast episodes
+
+---
+
+### Why I Chose These Experts
+
+**LinkedIn**
+- Ivan Dimitrijevic — Trust-based pipeline building on LinkedIn
+- Richard van der Blom — Algorithm-backed, data-driven content strategy
+- Matt Barker — LinkedIn ghostwriting for SaaS brands (Notion, Ahrefs)
+- Nataraj Sasid — B2B content strategy, broad but credible
+
+**YouTube**
+- Tommy Clark (beB2B) — SaaS LinkedIn growth, content-led demand gen
+- HubSpot Marketing — High-authority B2B marketing frameworks
+
+**Podcasts**
+- SaaS Talk with the Metrics Brothers — SaaS growth metrics and content ROI
+- Marketing Against the Grain (Kipp & Kieran) — Contrarian B2B marketing takes
+- Exit Five — B2B Marketing (Dave Gerhardt) — Founder-led, community-driven SaaS marketing
+
+---
+
+### Tools Used
+- Supadata API — YouTube transcript extraction
+- GitHub — Version control, file commits
+- Claude AI & ChatGPT — Structuring and refining notes
+- Manual research — LinkedIn posts, podcast notes
+
+---
+
+### Method
+Combined manual collection (LinkedIn posts, podcast listening) with API-based extraction
+(YouTube via Supadata). Each file was committed separately after creation.
+
+---
+
+### File Count
+- 1 sources.md
+- 4 LinkedIn files
+- 2 YouTube files
+- 3 Podcast files
+- 1 README update
+
+**Total: 11 files**
