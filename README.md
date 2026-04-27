@@ -114,3 +114,29 @@ Combined manual collection (LinkedIn posts, podcast listening) with API-based ex
 - 1 README update
 
 **Total: 12 files**
+
+## Task 3 — Playbook / SOP: LinkedIn Organic Content Strategy for B2B SaaS
+
+### What I Did
+Built a full practitioner playbook based on the research collected in Task 2. The playbook synthesises insights from all 10 experts into a structured, opinionated, and cited strategy document for B2B SaaS companies wanting to grow on LinkedIn organically.
+
+### File Location
+`research/playbook.md`
+
+### What the Playbook Contains
+- 12 sections covering foundation, account structure, content strategy, writing, distribution, measurement, and more
+- Every recommendation cites its source with author name, platform, and date
+- Section: Where experts disagree — 3 real disagreements with a clear side taken on each
+- Section: What I rejected and why — 3 ideas from research that were excluded with reasoning
+- Section: My original idea — The Warm Trigger System (not found in any source)
+- Section: Weaknesses of this playbook — honest about gaps and untested assumptions
+- Section: Who I would NOT recommend following — Ben B2B, with a specific and fair argument
+- Quick reference summary table at the end
+
+### My Approach
+I read through all the research files collected in Task 2 — LinkedIn posts, YouTube transcripts, and podcast notes — and identified the strongest insights, real contradictions between experts, and gaps that none of them addressed. I then structured these into a playbook that reflects my own judgment, not just a summary of what experts said.
+
+### Tools Used
+- Claude AI — used as a writing and structuring assistant to help arrange my observations, sharpen arguments, and format the document. All opinions, judgments, source selections, rejections, and the original idea are my own. Claude helped me organise and articulate them clearly.
+- Cursor IDE — for editing and committing files to GitHub
+- GitHub — version control and file management
